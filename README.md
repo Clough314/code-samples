@@ -2,7 +2,7 @@
 
 These are all small personal or class projects.
 
-`card.py` defines a class used to interface with a particular hardware card. The structure of the code is very similar to the backend of the software I work on at the Cosmic Ray Observatory Project. The class implements echo validation to ensure that commands are recieved on the card's end of the serial connection.
+`card.py` defines a class used to interface with a hardware card. The class implements echo validation to ensure that commands are recieved on the card's end of the serial connection.
 
 `chort.py` is a short script to generate printable chore charts from predefined lists / repetition intervals. A library is used for astronomical calculations.
 
