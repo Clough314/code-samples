@@ -2,6 +2,8 @@
 
 These are all small personal or class projects.
 
+`unl-course-planner` is a group project for a software engineering course. It ran on a LAMP stack and implemented a UI for organizing a four year course plan. We used Selenium to scrape course data off of UNL's catalog and partially automate DB population.
+
 `card.py` defines a class used to interface with a hardware card. The class implements echo validation to ensure that commands are recieved on the card's end of the serial connection.
 
 `chort.py` is a short script to generate printable chore charts from predefined lists / repetition intervals. A library is used for astronomical calculations.
