@@ -1,0 +1,128 @@
+Accounting, https://catalog.unl.edu//undergraduate/business/accounting/
+Actuarial Science (ASC), https://catalog.unl.edu//undergraduate/arts-sciences/actuarial-science/
+Actuarial Science (Business), https://catalog.unl.edu//undergraduate/business/actuarial-science/
+Aerospace Studies Minor, https://catalog.unl.edu//undergraduate/arts-sciences/aerospace-studies-minor/
+African Studies Minor, https://catalog.unl.edu//undergraduate/arts-sciences/african-studies-minor/
+African-American Studies Minor, https://catalog.unl.edu//undergraduate/arts-sciences/african-american-studies-minor/
+Agribusiness (CASNR), https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/agribusiness/
+Agricultural & Environmental Sciences Communication, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/environmental-communication/
+Agricultural Economics, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/economics/
+Agricultural Education, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/education/
+Agronomy, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/agronomy/
+Animal Science, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/animal-science/
+Anthropology, https://catalog.unl.edu//undergraduate/arts-sciences/anthropology/
+Applied Climate Science, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/applied-climate-science/
+Arabic Minor, https://catalog.unl.edu//undergraduate/arts-sciences/arabic-minor/
+Archaeology Minor, https://catalog.unl.edu//undergraduate/arts-sciences/archaeology-minor/
+Architectural Studies Minor, https://catalog.unl.edu//undergraduate/architecture/architectural-studies-minor/
+Art, https://catalog.unl.edu//undergraduate/fine-performing-arts/art/
+Art History, https://catalog.unl.edu//undergraduate/fine-performing-arts/art-history/
+Asian Studies Minor, https://catalog.unl.edu//undergraduate/arts-sciences/asian-studies-minor/
+Biochemistry (ASC), https://catalog.unl.edu//undergraduate/arts-sciences/biochemistry/
+Biochemistry (CASNR), https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/biochemistry/
+Biological Sciences, https://catalog.unl.edu//undergraduate/arts-sciences/biological-sciences/
+Biomedical Engineering Minor, https://catalog.unl.edu//undergraduate/engineering/biomedical-minor/
+Broadcasting, https://catalog.unl.edu//undergraduate/journalism-mass-communications/broadcasting/
+Business Administration, https://catalog.unl.edu//undergraduate/business/business-administration/
+Business Analytics Minor, https://catalog.unl.edu//undergraduate/business/business-analytics-minor/
+Business Minor for Raikes (ENGR), https://catalog.unl.edu//undergraduate/engineering/business-minor/
+CEHS International Minor, https://catalog.unl.edu//undergraduate/education-human-sciences/cehs-international-minor/
+Chemistry, https://catalog.unl.edu//undergraduate/arts-sciences/chemistry/
+Child, Youth & Family Studies Minor, https://catalog.unl.edu//undergraduate/education-human-sciences/child-youth-family-studies-minor/
+Classical Languages, https://catalog.unl.edu//undergraduate/arts-sciences/classical-languages/
+Classics & Religious Studies, https://catalog.unl.edu//undergraduate/arts-sciences/classics-religious-studies/
+Coaching Minor, https://catalog.unl.edu//undergraduate/education-human-sciences/coaching-minor/
+Communication Studies, https://catalog.unl.edu//undergraduate/arts-sciences/communication-studies/
+Community & Regional Planning Minor, https://catalog.unl.edu//undergraduate/architecture/community-regional-planning-minor/
+Computational Biology & Bioinformatics Minor (ASC), https://catalog.unl.edu//undergraduate/arts-sciences/computational-biology-bioinformatics-minor/
+Computational Biology & Bioinformatics Minor (CASNR), https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/computational-biology-bioinformatics-minor/
+Computational Biology & Bioinformatics Minor (ENGR), https://catalog.unl.edu//undergraduate/engineering/computational-biology-bioinformatics-minor/
+Computer Engineering (Lincoln), https://catalog.unl.edu//undergraduate/engineering/computer/
+Computer Science, https://catalog.unl.edu//undergraduate/arts-sciences/computer-science/
+Conflict & Conflict Resolution Minor, https://catalog.unl.edu//undergraduate/arts-sciences/conflict-and-conflict-resolution-minor/
+Construction Management, https://catalog.unl.edu//undergraduate/engineering/construction-management/
+Criminology & Criminal Justice, https://catalog.unl.edu//undergraduate/public-affairs-community-service/criminology-criminal-justice/
+Czech Minor, https://catalog.unl.edu//undergraduate/arts-sciences/czech-minor/
+Dance, https://catalog.unl.edu//undergraduate/fine-performing-arts/dance/
+Digital Humanities Minor, https://catalog.unl.edu//undergraduate/arts-sciences/digital-humanities-minor/
+Economics (ASC), https://catalog.unl.edu//undergraduate/arts-sciences/economics/
+Economics (Business), https://catalog.unl.edu//undergraduate/business/economics/
+Education Studies Minor, https://catalog.unl.edu//undergraduate/education-human-sciences/education-studies-minor/
+Educational Psychology Minor, https://catalog.unl.edu//undergraduate/education-human-sciences/educational-psychology-minor/
+Energy Science Minor, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/energy-science-minor/
+Engineering Leadership Minor, https://catalog.unl.edu//undergraduate/engineering/leadership-minor/
+Engineering Mechanics Minor, https://catalog.unl.edu//undergraduate/engineering/mechanics-minor/
+Engler Agribusiness Entrepreneurship Minor, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/engler-agribusiness-entrepreneurship/
+English, https://catalog.unl.edu//undergraduate/arts-sciences/english/
+Entrepreneurship Minor, https://catalog.unl.edu//undergraduate/business/entrepreneurship-minor/
+Environmental Restoration Science, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/environmental-restoration-science/
+Environmental Studies (ASC), https://catalog.unl.edu//undergraduate/arts-sciences/environmental-studies/
+Environmental Studies (CASNR), https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/environmental-studies/
+Ethnic Studies, https://catalog.unl.edu//undergraduate/arts-sciences/ethnic-studies/
+Film Studies, https://catalog.unl.edu//undergraduate/arts-sciences/film-studies/
+Finance, https://catalog.unl.edu//undergraduate/business/finance/
+Fisheries & Wildlife, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/fisheries-wildlife/
+Food Science & Technology, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/food-science-technology/
+Food, Energy and Water in Society Minor, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/food-energy-water-society-minor/
+French (ASC), https://catalog.unl.edu//undergraduate/arts-sciences/french/
+Geography, https://catalog.unl.edu//undergraduate/arts-sciences/geography/
+Geology, https://catalog.unl.edu//undergraduate/arts-sciences/geology/
+German (ASC), https://catalog.unl.edu//undergraduate/arts-sciences/german/
+Gerontology Minor & Gerontology Certificate, https://catalog.unl.edu//undergraduate/public-affairs-community-service/gerontology-minor/
+Global Leadership Minor, https://catalog.unl.edu//undergraduate/business/global-leadership-minor/
+Global Studies, https://catalog.unl.edu//undergraduate/arts-sciences/global-studies/
+Grassland Ecology & Management, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/grassland-ecology-management/
+Grazing Livestock Systems, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/grazing-livestock-systems/
+History, https://catalog.unl.edu//undergraduate/arts-sciences/history/
+Horticulture, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/horticulture/
+Hospitality, Restaurant & Tourism Management (CASNR), https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/hospitality-restaurant-tourism-management/
+Hospitality, Restaurant & Tourism Management (CEHS), https://catalog.unl.edu//undergraduate/education-human-sciences/hospitality-restaurant-tourism-management/
+Human Rights & Humanitarian Affairs Minor, https://catalog.unl.edu//undergraduate/arts-sciences/human-rights-humanitarian-affairs-minor/
+Humanities in Medicine Minor, https://catalog.unl.edu//undergraduate/arts-sciences/humanities-medicine-minor/
+Individualized Program of Studies, https://catalog.unl.edu//undergraduate/arts-sciences/individualized-program-of-studies/
+Informatics Minor, https://catalog.unl.edu//undergraduate/arts-sciences/informatics-minor/
+Insect Science, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/insect-science/
+International Agriculture & Natural Resources Minor, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/international-agriculture-natural-resources-minor/
+International Engineering Minor, https://catalog.unl.edu//undergraduate/engineering/international-minor/
+Japanese Minor, https://catalog.unl.edu//undergraduate/arts-sciences/japanese-minor/
+Jewish Studies Minor, https://catalog.unl.edu//undergraduate/arts-sciences/jewish-studies-minor/
+Landscape Architecture, https://catalog.unl.edu//undergraduate/architecture/landscape/
+Latin American Studies, https://catalog.unl.edu//undergraduate/arts-sciences/latin-american-studies/
+Lesbian, Gay, Bisexual, Transgender, Queer/Sexuality Studies Minor, https://catalog.unl.edu//undergraduate/arts-sciences/lesbian-gay-bisexual-transgender-queer-sexuality-studies-minor/
+Management, https://catalog.unl.edu//undergraduate/business/management/
+Marketing, https://catalog.unl.edu//undergraduate/business/marketing/
+Mathematics, https://catalog.unl.edu//undergraduate/arts-sciences/mathematics/
+Mathematics for Engineers Minor, https://catalog.unl.edu//undergraduate/engineering/mathematics-minor/
+Mechanized Systems Management, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/mechanized-systems-management/
+Medieval and Renaissance Studies, https://catalog.unl.edu//undergraduate/arts-sciences/medieval-renaissance-studies/
+Meteorology-Climatology, https://catalog.unl.edu//undergraduate/arts-sciences/meteorology-climatology/
+Modern Languages-Czech Minor (ENGR), https://catalog.unl.edu//undergraduate/engineering/modern-languages-czech-minor/
+Modern Languages-French, German & Russian Minor (ENGR), https://catalog.unl.edu//undergraduate/engineering/modern-languages-french-german-russian-minor/
+Modern Languages-Japanese Minor (ENGR), https://catalog.unl.edu//undergraduate/engineering/modern-languages-japanese-minor/
+Modern Languages-Spanish Minor (ENGR), https://catalog.unl.edu//undergraduate/engineering/modern-languages-spanish-minor/
+Music, https://catalog.unl.edu//undergraduate/fine-performing-arts/music/
+Music Technology Minor, https://catalog.unl.edu//undergraduate/fine-performing-arts/music-technology-minor/
+National Security Studies Minor, https://catalog.unl.edu//undergraduate/arts-sciences/national-security-studies-minor/
+Native American Studies Minor, https://catalog.unl.edu//undergraduate/arts-sciences/native-american-studies-minor/
+Natural Resource & Environmental Economics, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/natural-resource-environmental-economics/
+Philosophy, https://catalog.unl.edu//undergraduate/arts-sciences/philosophy/
+Physics, https://catalog.unl.edu//undergraduate/arts-sciences/physics/
+Plant Biology (ASC), https://catalog.unl.edu//undergraduate/arts-sciences/plant-biology/
+Plant Biology (CASNR), https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/plant-biology/
+Political Science, https://catalog.unl.edu//undergraduate/arts-sciences/political-science/
+Product Design Minor, https://catalog.unl.edu//undergraduate/architecture/product-design-minor/
+Psychology, https://catalog.unl.edu//undergraduate/arts-sciences/psychology/
+Robotics Engineering Minor, https://catalog.unl.edu//undergraduate/engineering/robotics-minor/
+Russian (ASC), https://catalog.unl.edu//undergraduate/arts-sciences/russian/
+Sociology, https://catalog.unl.edu//undergraduate/arts-sciences/sociology/
+Software Development Minor, https://catalog.unl.edu//undergraduate/arts-sciences/software-development-minor/
+Spanish (ASC), https://catalog.unl.edu//undergraduate/arts-sciences/spanish/
+Statistics Minor (ASC), https://catalog.unl.edu//undergraduate/arts-sciences/statistics-minor/
+Statistics Minor (CASNR) , https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/statistics-minor/
+Supply Chain Management, https://catalog.unl.edu//undergraduate/business/supply-chain-management/
+Textiles, Merchandising & Fashion Design Minor, https://catalog.unl.edu//undergraduate/education-human-sciences/textiles-merchandising-fashion-design-minor/
+Theatre Minor, https://catalog.unl.edu//undergraduate/fine-performing-arts/theatre-minor/
+Turfgrass & Landscape Management, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/turfgrass-landscape-management/
+Veterinary Science, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/veterinary-science/
+Water Science, https://catalog.unl.edu//undergraduate/agricultural-sciences-natural-resources/water-science/
+Women’s and Gender Studies, https://catalog.unl.edu//undergraduate/arts-sciences/womens-gender-studies/

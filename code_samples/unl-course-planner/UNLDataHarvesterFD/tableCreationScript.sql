@@ -1,0 +1,36 @@
+use cfarmer;
+
+drop table if exists `Course`;
+
+CREATE TABLE IF NOT EXISTS `Course` (
+	`courseId` INT NOT NULL AUTO_INCREMENT,
+	`title` VARCHAR(128) NULL DEFAULT NULL,
+	`courseCodes` VARCHAR(256) NULL DEFAULT NULL,
+	`gradingType` VARCHAR(32) NULL DEFAULT NULL,
+	`dfRemoval` BOOLEAN NULL DEFAULT NULL,
+	`effectiveSemester` VARCHAR(32) NULL DEFAULT NULL,
+	`prerequisites` VARCHAR(1024) NULL DEFAULT NULL,
+	`description` VARCHAR(1024) NULL DEFAULT NULL,
+	`campuses` VARCHAR(32) NULL DEFAULT NULL,
+	`deliveryMethods` VARCHAR(64) NULL DEFAULT NULL,
+	`termsOffered` VARCHAR(64) NULL DEFAULT NULL,
+	`activities` VARCHAR(32) NULL DEFAULT NULL,
+	`credits` VARCHAR(64) NULL DEFAULT NULL,
+	`aceOutcomes` VARCHAR(32) NULL DEFAULT NULL,
+	PRIMARY KEY (`courseId`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4;
+
+drop table if exists `Subject`;
+
+CREATE TABLE IF NOT EXISTS `Subject` (
+	`subjectId` INT NOT NULL AUTO_INCREMENT,
+	`title` VARCHAR(128) NULL DEFAULT NULL,
+	`minorAvailable` BOOLEAN NULL DEFAULT NULL,
+	`minorOnly` BOOLEAN NULL DEFAULT NULL,
+	`college` VARCHAR(128) NULL DEFAULT NULL,
+	`uri` VARCHAR(256) NULL DEFAULT NULL,
+    `subjectPrefixes` VARCHAR(32) NULL DEFAULT NULL,
+	PRIMARY KEY (`subjectId`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4;

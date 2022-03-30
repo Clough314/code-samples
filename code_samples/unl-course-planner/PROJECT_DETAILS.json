@@ -1,0 +1,32 @@
+{
+	"title" : "UNL Course Planner", 
+	"date" : "2018-05", 
+	"revenue" : "No", 
+	"status" : "Complete", 
+	"summary" : "The purpose of this project is to assist students in the process of organizing their plans for which courses they will take in which future semesters",
+	"description" : "There were 4 significant parts to this project: an Extract-Transform-Load (ETL) tool to pull data from the UNL APIs into our own custom databse, a PHP middle layer controller, a frontend written in HTML/CSS/JavaScript with jQuery/AJAX to display things, and documentation done in 2 phases. The first phase was following Waterfall design principles, then the second phase was following Agile design principles. My primary contributions pertained to the ETL tool and documentation. Total lines of code: 1689", 
+
+	"future-work" : [
+						"Adding additional functionality pertaining to course prerequisites and relevant validation"
+				    ],
+	"live-link" : "Contact me", 
+	"demonstration-link" : "Contact me", 
+	"repository-link" : "Contact me", 
+	"supported-platforms" : ["Windows", "macOS", "Linux"],
+	"supported-browsers" : ["Google Chrome", "Mozilla Firefox", "Safari"], 
+	"version-control" : "Git", 
+	"development-methods" : "Agile, Waterfall", 
+	"team-size" : "5", 
+	"lines-of-code" : "743", 
+	"user-interface" : "Web", 
+	"keywords" : ["Education", "Web Application", "Parsing", "Security", "Utility", "UI/UX", "Database Design"], 
+	"languages" : ["HTML", "CSS", "JavaScript", "PHP", "SQL"],
+	"libraries" : [
+					"JavaScript: jQuery/AJAX"
+				  ],
+	"external-programs" : "None", 
+	"development-os" : "macOS, Linux: openSUSE", 
+	"deployment-os" : "Linux: openSUSE", 
+	"web-server" : "Apache", 
+	"databases" : ["MariaDB"]
+}

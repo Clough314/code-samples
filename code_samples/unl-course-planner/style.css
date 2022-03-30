@@ -1,0 +1,153 @@
+.main {
+    width: 100%;
+}
+
+body {
+    background-color: rgba(201,191,183,0.69);
+}
+
+
+#top-bar {
+    padding: 5px;
+    background-color: rgba(45,41,41,0.76);
+}
+
+#planner {
+    background: url(nebraska.png) no-repeat top;
+    background-size: 90%;
+    min-height: 100vh;
+    margin: 10px;
+}
+
+.outer {
+    min-height: 25vh;
+}
+
+.dropBox {
+    min-height: 25vh;
+    border-style: solid;
+    width: 100%;
+}
+
+ul, li {
+    list-style:none;
+    padding:0;
+    margin:0;
+    white-space:nowrap;
+    max-height: 23vh;
+}
+
+#ace div div {
+    border-style: solid;
+    background-color: rgba(235,21,8,0.69);
+}
+
+ul{
+    overflow-y:scroll;
+    min-height: 23vh;
+    margin: 6px
+}
+
+h5 {
+    margin: 5px;
+}
+
+select {
+    outline: none;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px
+}
+
+
+#classes {
+    margin: 5px;
+    min-width: 20vw;
+}
+
+h5 {
+    text-align: center;
+    border: solid;
+    border-radius: 25px;
+    padding: 3px
+}
+
+#content {
+    margin: 10px;
+    width: 100%
+}
+
+.info {
+    height: 15px;
+    float: right;
+    margin: 3px
+}
+
+#info {
+    margin: 10px;
+    max-height: 100vh;
+}
+
+#courseInfo h6 {
+    display: inline-block;
+}
+
+#courseSearch {
+    outline: none;
+    padding: 5px;
+    margin-left: 40px;
+    margin-top: 10px;
+    border-radius: 25px;
+}
+
+#ace {
+    font-size: 1.25em;
+    width: 100%;
+}
+
+#first {
+    border-style: none!important;
+    background: none!important;
+}
+
+li {
+    background-color: rgba(71,69,73,0.4);
+    color: white;
+    border: solid black;
+}
+
+.col-md-1 {
+    text-align: center;
+    vertical-align: middle;
+}
+
+#miLink {
+    font-size: 1.35em
+}
+
+#maLink {
+    font-size: 1.35em
+}
+
+a {
+    color: rgb(29,113, 255);
+}
+
+a:hover {
+    color: rgb(29,113, 200);
+}
+
+button {
+    background-color: dimgrey; /* Green */
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: .95em;
+    margin-bottom: 15px;
+}
+
+button:focus {outline:0;}
+
+#aces div {
+    cursor: pointer;
+}
